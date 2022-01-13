@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on
-  [Minishell](https://github.com/arthur-trt/minishell_clean): a basic bash replica project.
+  Push swap: a sorting algorithm using two stacks.
 - 🌱 I’m learning
   C, C++
   
