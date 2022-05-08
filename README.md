@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on
-  Push swap: a sorting algorithm using two stacks.
+  ft_irc: a basic irc server written in C++98
 - 🌱 I’m learning
   C, C++
   
