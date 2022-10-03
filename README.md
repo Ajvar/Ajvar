@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on
   ft_irc: a basic irc server written in C++98
 - 🌱 I’m learning
-  C, C++
+  C++, Typescript and React
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
