@@ -1,10 +1,10 @@
 <h1 align="center" >Hi there I'm Jo 👋</h1>
 
 
-- 🔭 I’m currently working on
-  ft_irc: a basic irc server written in C++98
+<div align="center">- 🔭 I’m currently working on
+  ft_transcendance: an online pong game website using Nest, React, websockets and more.</br>
 - 🌱 I’m learning
-  Typescript, React, NestJS
+  Typescript, React, NestJS</div>
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
