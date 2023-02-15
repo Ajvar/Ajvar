@@ -2,7 +2,7 @@
 
 
 <div align="center">- 🔭 I’m currently working on
-  ft_transcendance: an online pong game website using Nest, React, websockets and more.</br>
+  the final exam of scholl 42</br>
 - 🌱 I’m learning
   Typescript, React, NestJS</div>
   
