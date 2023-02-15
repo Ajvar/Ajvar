@@ -2,7 +2,7 @@
 
 
 <div align="center">- 🔭 I’m currently working on
-  the final exam of scholl 42</br>
+  the final exam of school 42</br>
 - 🌱 I’m learning
   Typescript, React, NestJS</div>
   
