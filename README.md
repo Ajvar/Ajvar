@@ -1,10 +1,9 @@
 <h1 align="center" >Hi there I'm Jo 👋</h1>
 
 
-<div align="center">- 🔭 I’m currently working on
-  the final exam of school 42</br>
+<div align="center">- 🔭 I recently finished 42 school and I'm perfecting my web development skills !</br>
 - 🌱 I’m learning
-  Typescript, React, NestJS</div>
+  Typescript, React, Trpc, Prisma</div>
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
